@@ -11,7 +11,8 @@ src<br>
 │ ├── carts.js <br>
 │ └── itens.js <br>
 ├── index.js <br>
-└── package.json README.md<br>
+package.json <br> 
+README.md<br>
 
 # Funções da Estrutura do Projeto
 
