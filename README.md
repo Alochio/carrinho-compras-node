@@ -4,14 +4,14 @@ Repositório contendo o código desenvolvido durante um bootcamp de Node.js, com
 
 ## Estrutura do Projeto
 
-src 
-├── img 
-│ └── arquitetura.jpg 
-├── services 
-│ ├── carts.js 
-│ └── itens.js 
-├── index.js 
-└── package.json README.md
+src<br> 
+├── img <br>
+│ └── arquitetura.jpg <br>
+├── services <br>
+│ ├── carts.js <br>
+│ └── itens.js <br>
+├── index.js <br>
+└── package.json README.md<br>
 
 # Funções da Estrutura do Projeto
 
