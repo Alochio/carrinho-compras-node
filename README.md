@@ -26,7 +26,7 @@ Este arquivo contém as funções relacionadas ao gerenciamento do carrinho de c
 ## `src/services/itens.js`
 Este arquivo define a função para criação de itens, incluindo:
 
-- **createItem**: Cria um novo item com propriedades como nome, preço, quantidade, um método para calcular o subtotal, entre outras entrdas.
+- **createItem**: Cria um novo item com propriedades como nome, preço, quantidade e um método para calcular o subtotal.
 
 ## `src/index.js`
 Este arquivo é o ponto de entrada do aplicativo, onde:
@@ -35,6 +35,8 @@ Este arquivo é o ponto de entrada do aplicativo, onde:
 - Exibe mensagens de boas-vindas.
 - Cria itens e adiciona ao carrinho.
 - Calcula e exibe o total do carrinho.
+- Realiza outras chamadas para testes das funções implementadas.
+
 
 ## Imagem da Arquitetura do Projeto
 
